@@ -1,0 +1,209 @@
+row_id,match_id,date,round,matchweek,team,opponent,goals_for,goals_against,is_listed_home,team_is_host,opponent_is_host,attendance,venue,referee,is_knockout,went_to_extra_time,went_to_pens
+1,1,2026-06-11,Group stage,1.0,Mexico,South Africa,2,0,True,True,False,80824,Estadio Banorte,Wilton Sampaio,False,False,False
+2,1,2026-06-11,Group stage,1.0,South Africa,Mexico,0,2,False,False,True,80824,Estadio Banorte,Wilton Sampaio,False,False,False
+3,2,2026-06-11,Group stage,1.0,Korea Republic,Czechia,2,1,True,False,False,44985,Estadio Akron,Amin Omar,False,False,False
+4,2,2026-06-11,Group stage,1.0,Czechia,Korea Republic,1,2,False,False,False,44985,Estadio Akron,Amin Omar,False,False,False
+5,3,2026-06-12,Group stage,1.0,Canada,Bosnia–Herz,1,1,True,True,False,43002,BMO Field,Facundo Tello,False,False,False
+6,3,2026-06-12,Group stage,1.0,Bosnia–Herz,Canada,1,1,False,False,True,43002,BMO Field,Facundo Tello,False,False,False
+7,4,2026-06-12,Group stage,1.0,USA,Paraguay,4,1,True,True,False,70492,SoFi Stadium,Danny Makkelie,False,False,False
+8,4,2026-06-12,Group stage,1.0,Paraguay,USA,1,4,False,False,True,70492,SoFi Stadium,Danny Makkelie,False,False,False
+9,5,2026-06-13,Group stage,1.0,Qatar,Switzerland,1,1,True,False,False,67966,Levi's Stadium,Said Martínez,False,False,False
+10,5,2026-06-13,Group stage,1.0,Switzerland,Qatar,1,1,False,False,False,67966,Levi's Stadium,Said Martínez,False,False,False
+11,6,2026-06-13,Group stage,1.0,Brazil,Morocco,1,1,True,False,False,80663,MetLife Stadium,Slavko Vinčič,False,False,False
+12,6,2026-06-13,Group stage,1.0,Morocco,Brazil,1,1,False,False,False,80663,MetLife Stadium,Slavko Vinčič,False,False,False
+13,7,2026-06-13,Group stage,1.0,Australia,Türkiye,2,0,True,False,False,52497,BC Place Stadium,Jesús Valenzuela,False,False,False
+14,7,2026-06-13,Group stage,1.0,Türkiye,Australia,0,2,False,False,False,52497,BC Place Stadium,Jesús Valenzuela,False,False,False
+15,8,2026-06-13,Group stage,1.0,Haiti,Scotland,0,1,True,False,False,64146,Gillette Stadium,Mustapha Ghorbal,False,False,False
+16,8,2026-06-13,Group stage,1.0,Scotland,Haiti,1,0,False,False,False,64146,Gillette Stadium,Mustapha Ghorbal,False,False,False
+17,9,2026-06-14,Group stage,1.0,Germany,Curaçao,7,1,True,False,False,68021,Reliant Stadium,Jalal Jiyed,False,False,False
+18,9,2026-06-14,Group stage,1.0,Curaçao,Germany,1,7,False,False,False,68021,Reliant Stadium,Jalal Jiyed,False,False,False
+19,10,2026-06-14,Group stage,1.0,Netherlands,Japan,2,2,True,False,False,69285,AT&T Stadium,Ismail Elfath,False,False,False
+20,10,2026-06-14,Group stage,1.0,Japan,Netherlands,2,2,False,False,False,69285,AT&T Stadium,Ismail Elfath,False,False,False
+21,11,2026-06-14,Group stage,1.0,Côte d'Ivoire,Ecuador,1,0,True,False,False,68274,Lincoln Financial Field,François Letexier,False,False,False
+22,11,2026-06-14,Group stage,1.0,Ecuador,Côte d'Ivoire,0,1,False,False,False,68274,Lincoln Financial Field,François Letexier,False,False,False
+23,12,2026-06-14,Group stage,1.0,Sweden,Tunisia,5,1,True,False,False,50987,Estadio BBVA,Yael Falcón,False,False,False
+24,12,2026-06-14,Group stage,1.0,Tunisia,Sweden,1,5,False,False,False,50987,Estadio BBVA,Yael Falcón,False,False,False
+25,13,2026-06-15,Group stage,1.0,Belgium,Egypt,1,1,True,False,False,66775,Lumen Field,Ramon Abatti,False,False,False
+26,13,2026-06-15,Group stage,1.0,Egypt,Belgium,1,1,False,False,False,66775,Lumen Field,Ramon Abatti,False,False,False
+27,14,2026-06-15,Group stage,1.0,Spain,Cabo Verde,0,0,True,False,False,67640,Mercedes-Benz Stadium,Adham Makhadmeh,False,False,False
+28,14,2026-06-15,Group stage,1.0,Cabo Verde,Spain,0,0,False,False,False,67640,Mercedes-Benz Stadium,Adham Makhadmeh,False,False,False
+29,15,2026-06-15,Group stage,1.0,Saudi Arabia,Uruguay,1,1,True,False,False,62764,Hard Rock Stadium,Maurizio Mariani,False,False,False
+30,15,2026-06-15,Group stage,1.0,Uruguay,Saudi Arabia,1,1,False,False,False,62764,Hard Rock Stadium,Maurizio Mariani,False,False,False
+31,16,2026-06-15,Group stage,1.0,IR Iran,New Zealand,2,2,True,False,False,70108,SoFi Stadium,César Arturo Ramos,False,False,False
+32,16,2026-06-15,Group stage,1.0,New Zealand,IR Iran,2,2,False,False,False,70108,SoFi Stadium,César Arturo Ramos,False,False,False
+33,17,2026-06-16,Group stage,1.0,France,Senegal,3,1,True,False,False,80545,MetLife Stadium,Alireza Faghani,False,False,False
+34,17,2026-06-16,Group stage,1.0,Senegal,France,1,3,False,False,False,80545,MetLife Stadium,Alireza Faghani,False,False,False
+35,18,2026-06-16,Group stage,1.0,Iraq,Norway,1,4,True,False,False,63106,Gillette Stadium,Pierre Ghislain Atcho,False,False,False
+36,18,2026-06-16,Group stage,1.0,Norway,Iraq,4,1,False,False,False,63106,Gillette Stadium,Pierre Ghislain Atcho,False,False,False
+37,19,2026-06-16,Group stage,1.0,Argentina,Algeria,3,0,True,False,False,69045,GEHA Field at Arrowhead Stadium,Szymon Marciniak,False,False,False
+38,19,2026-06-16,Group stage,1.0,Algeria,Argentina,0,3,False,False,False,69045,GEHA Field at Arrowhead Stadium,Szymon Marciniak,False,False,False
+39,20,2026-06-16,Group stage,1.0,Austria,Jordan,3,1,True,False,False,68527,Levi's Stadium,Dahane Beida,False,False,False
+40,20,2026-06-16,Group stage,1.0,Jordan,Austria,1,3,False,False,False,68527,Levi's Stadium,Dahane Beida,False,False,False
+41,21,2026-06-17,Group stage,1.0,Portugal,Congo DR,1,1,True,False,False,68777,Reliant Stadium,Abdulrahman Ibrahim Al Jassim,False,False,False
+42,21,2026-06-17,Group stage,1.0,Congo DR,Portugal,1,1,False,False,False,68777,Reliant Stadium,Abdulrahman Ibrahim Al Jassim,False,False,False
+43,22,2026-06-17,Group stage,1.0,England,Croatia,4,2,True,False,False,70389,AT&T Stadium,Clément Turpin,False,False,False
+44,22,2026-06-17,Group stage,1.0,Croatia,England,2,4,False,False,False,70389,AT&T Stadium,Clément Turpin,False,False,False
+45,23,2026-06-17,Group stage,1.0,Ghana,Panama,1,0,True,False,False,42942,BMO Field,Glenn Nyberg,False,False,False
+46,23,2026-06-17,Group stage,1.0,Panama,Ghana,0,1,False,False,False,42942,BMO Field,Glenn Nyberg,False,False,False
+47,24,2026-06-17,Group stage,1.0,Uzbekistan,Colombia,1,3,True,False,False,80824,Estadio Banorte,Anthony Taylor,False,False,False
+48,24,2026-06-17,Group stage,1.0,Colombia,Uzbekistan,3,1,False,False,False,80824,Estadio Banorte,Anthony Taylor,False,False,False
+49,25,2026-06-18,Group stage,2.0,Czechia,South Africa,1,1,True,False,False,67442,Mercedes-Benz Stadium,Tori Penso,False,False,False
+50,25,2026-06-18,Group stage,2.0,South Africa,Czechia,1,1,False,False,False,67442,Mercedes-Benz Stadium,Tori Penso,False,False,False
+51,26,2026-06-18,Group stage,2.0,Switzerland,Bosnia–Herz,4,1,True,False,False,70026,SoFi Stadium,João Pinheiro,False,False,False
+52,26,2026-06-18,Group stage,2.0,Bosnia–Herz,Switzerland,1,4,False,False,False,70026,SoFi Stadium,João Pinheiro,False,False,False
+53,27,2026-06-18,Group stage,2.0,Canada,Qatar,6,0,True,True,False,52497,BC Place Stadium,Cristián Garay,False,False,False
+54,27,2026-06-18,Group stage,2.0,Qatar,Canada,0,6,False,False,True,52497,BC Place Stadium,Cristián Garay,False,False,False
+55,28,2026-06-18,Group stage,2.0,Mexico,Korea Republic,1,0,True,True,False,45522,Estadio Akron,Gustavo Tejera,False,False,False
+56,28,2026-06-18,Group stage,2.0,Korea Republic,Mexico,0,1,False,False,True,45522,Estadio Akron,Gustavo Tejera,False,False,False
+57,29,2026-06-19,Group stage,2.0,USA,Australia,2,0,True,True,False,66925,Lumen Field,Felix Zwayer,False,False,False
+58,29,2026-06-19,Group stage,2.0,Australia,USA,0,2,False,False,True,66925,Lumen Field,Felix Zwayer,False,False,False
+59,30,2026-06-19,Group stage,2.0,Scotland,Morocco,0,1,True,False,False,64146,Gillette Stadium,Ilgiz Tantashev,False,False,False
+60,30,2026-06-19,Group stage,2.0,Morocco,Scotland,1,0,False,False,False,64146,Gillette Stadium,Ilgiz Tantashev,False,False,False
+61,31,2026-06-19,Group stage,2.0,Türkiye,Paraguay,0,1,True,False,False,68827,Levi's Stadium,Iván Barton,False,False,False
+62,31,2026-06-19,Group stage,2.0,Paraguay,Türkiye,1,0,False,False,False,68827,Levi's Stadium,Iván Barton,False,False,False
+63,32,2026-06-19,Group stage,2.0,Brazil,Haiti,3,0,True,False,False,68324,Lincoln Financial Field,Alejandro Hernández,False,False,False
+64,32,2026-06-19,Group stage,2.0,Haiti,Brazil,0,3,False,False,False,68324,Lincoln Financial Field,Alejandro Hernández,False,False,False
+65,33,2026-06-20,Group stage,2.0,Netherlands,Sweden,5,1,True,False,False,68777,Reliant Stadium,Michael Oliver,False,False,False
+66,33,2026-06-20,Group stage,2.0,Sweden,Netherlands,1,5,False,False,False,68777,Reliant Stadium,Michael Oliver,False,False,False
+67,34,2026-06-20,Group stage,2.0,Germany,Côte d'Ivoire,2,1,True,False,False,43036,BMO Field,Juan Gabriel Benítez,False,False,False
+68,34,2026-06-20,Group stage,2.0,Côte d'Ivoire,Germany,1,2,False,False,False,43036,BMO Field,Juan Gabriel Benítez,False,False,False
+69,35,2026-06-20,Group stage,2.0,Ecuador,Curaçao,0,0,True,False,False,68598,GEHA Field at Arrowhead Stadium,Ma Ning,False,False,False
+70,35,2026-06-20,Group stage,2.0,Curaçao,Ecuador,0,0,False,False,False,68598,GEHA Field at Arrowhead Stadium,Ma Ning,False,False,False
+71,36,2026-06-20,Group stage,2.0,Tunisia,Japan,0,4,True,False,False,51243,Estadio BBVA,István Kovács,False,False,False
+72,36,2026-06-20,Group stage,2.0,Japan,Tunisia,4,0,False,False,False,51243,Estadio BBVA,István Kovács,False,False,False
+73,37,2026-06-21,Group stage,2.0,Spain,Saudi Arabia,4,0,True,False,False,68239,Mercedes-Benz Stadium,Raphael Claus,False,False,False
+74,37,2026-06-21,Group stage,2.0,Saudi Arabia,Spain,0,4,False,False,False,68239,Mercedes-Benz Stadium,Raphael Claus,False,False,False
+75,38,2026-06-21,Group stage,2.0,Belgium,IR Iran,0,0,True,False,False,70317,SoFi Stadium,Darío Herrera,False,False,False
+76,38,2026-06-21,Group stage,2.0,IR Iran,Belgium,0,0,False,False,False,70317,SoFi Stadium,Darío Herrera,False,False,False
+77,39,2026-06-21,Group stage,2.0,Uruguay,Cabo Verde,2,2,True,False,False,64003,Hard Rock Stadium,Espen Eskås,False,False,False
+78,39,2026-06-21,Group stage,2.0,Cabo Verde,Uruguay,2,2,False,False,False,64003,Hard Rock Stadium,Espen Eskås,False,False,False
+79,40,2026-06-21,Group stage,2.0,New Zealand,Egypt,1,3,True,False,False,52497,BC Place Stadium,Omar Mohamed Al Ali,False,False,False
+80,40,2026-06-21,Group stage,2.0,Egypt,New Zealand,3,1,False,False,False,52497,BC Place Stadium,Omar Mohamed Al Ali,False,False,False
+81,41,2026-06-22,Group stage,2.0,Argentina,Austria,2,0,True,False,False,70649,AT&T Stadium,Amin Omar,False,False,False
+82,41,2026-06-22,Group stage,2.0,Austria,Argentina,0,2,False,False,False,70649,AT&T Stadium,Amin Omar,False,False,False
+83,42,2026-06-22,Group stage,2.0,France,Iraq,3,0,True,False,False,68324,Lincoln Financial Field,Drew Fischer,False,False,False
+84,42,2026-06-22,Group stage,2.0,Iraq,France,0,3,False,False,False,68324,Lincoln Financial Field,Drew Fischer,False,False,False
+85,43,2026-06-22,Group stage,2.0,Norway,Senegal,3,2,True,False,False,80663,MetLife Stadium,Wilton Sampaio,False,False,False
+86,43,2026-06-22,Group stage,2.0,Senegal,Norway,2,3,False,False,False,80663,MetLife Stadium,Wilton Sampaio,False,False,False
+87,44,2026-06-22,Group stage,2.0,Jordan,Algeria,1,2,True,False,False,68371,Levi's Stadium,Slavko Vinčič,False,False,False
+88,44,2026-06-22,Group stage,2.0,Algeria,Jordan,2,1,False,False,False,68371,Levi's Stadium,Slavko Vinčič,False,False,False
+89,45,2026-06-23,Group stage,2.0,Portugal,Uzbekistan,5,0,True,False,False,68777,Reliant Stadium,Jalal Jayed,False,False,False
+90,45,2026-06-23,Group stage,2.0,Uzbekistan,Portugal,0,5,False,False,False,68777,Reliant Stadium,Jalal Jayed,False,False,False
+91,46,2026-06-23,Group stage,2.0,England,Ghana,0,0,True,False,False,63983,Gillette Stadium,Said Martínez,False,False,False
+92,46,2026-06-23,Group stage,2.0,Ghana,England,0,0,False,False,False,63983,Gillette Stadium,Said Martínez,False,False,False
+93,47,2026-06-23,Group stage,2.0,Panama,Croatia,0,1,True,False,False,43036,BMO Field,Pierre Ghislain Atcho,False,False,False
+94,47,2026-06-23,Group stage,2.0,Croatia,Panama,1,0,False,False,False,43036,BMO Field,Pierre Ghislain Atcho,False,False,False
+95,48,2026-06-23,Group stage,2.0,Colombia,Congo DR,1,0,True,False,False,45358,Estadio Akron,Maurizio Mariani,False,False,False
+96,48,2026-06-23,Group stage,2.0,Congo DR,Colombia,0,1,False,False,False,45358,Estadio Akron,Maurizio Mariani,False,False,False
+97,49,2026-06-24,Group stage,3.0,Switzerland,Canada,2,1,True,False,True,52497,BC Place Stadium,Ramon Abatti,False,False,False
+98,49,2026-06-24,Group stage,3.0,Canada,Switzerland,1,2,False,True,False,52497,BC Place Stadium,Ramon Abatti,False,False,False
+99,50,2026-06-24,Group stage,3.0,Bosnia–Herz,Qatar,3,1,True,False,False,66925,Lumen Field,Jesús Valenzuela,False,False,False
+100,50,2026-06-24,Group stage,3.0,Qatar,Bosnia–Herz,1,3,False,False,False,66925,Lumen Field,Jesús Valenzuela,False,False,False
+101,51,2026-06-24,Group stage,3.0,Scotland,Brazil,0,3,True,False,False,64478,Hard Rock Stadium,César Arturo Ramos,False,False,False
+102,51,2026-06-24,Group stage,3.0,Brazil,Scotland,3,0,False,False,False,64478,Hard Rock Stadium,César Arturo Ramos,False,False,False
+103,52,2026-06-24,Group stage,3.0,Morocco,Haiti,4,2,True,False,False,68239,Mercedes-Benz Stadium,Danny Makkelie,False,False,False
+104,52,2026-06-24,Group stage,3.0,Haiti,Morocco,2,4,False,False,False,68239,Mercedes-Benz Stadium,Danny Makkelie,False,False,False
+105,53,2026-06-24,Group stage,3.0,South Africa,Korea Republic,1,0,True,False,False,51243,Estadio BBVA,Facundo Tello,False,False,False
+106,53,2026-06-24,Group stage,3.0,Korea Republic,South Africa,0,1,False,False,False,51243,Estadio BBVA,Facundo Tello,False,False,False
+107,54,2026-06-24,Group stage,3.0,Czechia,Mexico,0,3,True,False,True,80824,Estadio Banorte,Yael Falcón,False,False,False
+108,54,2026-06-24,Group stage,3.0,Mexico,Czechia,3,0,False,True,False,80824,Estadio Banorte,Yael Falcón,False,False,False
+109,55,2026-06-25,Group stage,3.0,Curaçao,Côte d'Ivoire,0,2,True,False,False,68324,Lincoln Financial Field,Glenn Nyberg,False,False,False
+110,55,2026-06-25,Group stage,3.0,Côte d'Ivoire,Curaçao,2,0,False,False,False,68324,Lincoln Financial Field,Glenn Nyberg,False,False,False
+111,56,2026-06-25,Group stage,3.0,Ecuador,Germany,2,1,True,False,False,80663,MetLife Stadium,Tori Penso,False,False,False
+112,56,2026-06-25,Group stage,3.0,Germany,Ecuador,1,2,False,False,False,80663,MetLife Stadium,Tori Penso,False,False,False
+113,57,2026-06-25,Group stage,3.0,Tunisia,Netherlands,1,3,True,False,False,68391,GEHA Field at Arrowhead Stadium,Katia García,False,False,False
+114,57,2026-06-25,Group stage,3.0,Netherlands,Tunisia,3,1,False,False,False,68391,GEHA Field at Arrowhead Stadium,Katia García,False,False,False
+115,58,2026-06-25,Group stage,3.0,Japan,Sweden,1,1,True,False,False,70137,AT&T Stadium,Iván Barton,False,False,False
+116,58,2026-06-25,Group stage,3.0,Sweden,Japan,1,1,False,False,False,70137,AT&T Stadium,Iván Barton,False,False,False
+117,59,2026-06-25,Group stage,3.0,Türkiye,USA,3,2,True,False,True,70492,SoFi Stadium,Mustapha Ghorbal,False,False,False
+118,59,2026-06-25,Group stage,3.0,USA,Türkiye,2,3,False,True,False,70492,SoFi Stadium,Mustapha Ghorbal,False,False,False
+119,60,2026-06-25,Group stage,3.0,Paraguay,Australia,0,0,True,False,False,68827,Levi's Stadium,Clément Turpin,False,False,False
+120,60,2026-06-25,Group stage,3.0,Australia,Paraguay,0,0,False,False,False,68827,Levi's Stadium,Clément Turpin,False,False,False
+121,61,2026-06-26,Group stage,3.0,Norway,France,1,4,True,False,False,64146,Gillette Stadium,Michael Oliver,False,False,False
+122,61,2026-06-26,Group stage,3.0,France,Norway,4,1,False,False,False,64146,Gillette Stadium,Michael Oliver,False,False,False
+123,62,2026-06-26,Group stage,3.0,Senegal,Iraq,5,0,True,False,False,43036,BMO Field,Anthony Taylor,False,False,False
+124,62,2026-06-26,Group stage,3.0,Iraq,Senegal,0,5,False,False,False,43036,BMO Field,Anthony Taylor,False,False,False
+125,63,2026-06-26,Group stage,3.0,Uruguay,Spain,0,1,True,False,False,45065,Estadio Akron,Ismail Elfath,False,False,False
+126,63,2026-06-26,Group stage,3.0,Spain,Uruguay,1,0,False,False,False,45065,Estadio Akron,Ismail Elfath,False,False,False
+127,64,2026-06-26,Group stage,3.0,Cabo Verde,Saudi Arabia,0,0,True,False,False,68278,Reliant Stadium,François Letexier,False,False,False
+128,64,2026-06-26,Group stage,3.0,Saudi Arabia,Cabo Verde,0,0,False,False,False,68278,Reliant Stadium,François Letexier,False,False,False
+129,65,2026-06-26,Group stage,3.0,Egypt,IR Iran,1,1,True,False,False,66925,Lumen Field,Szymon Marciniak,False,False,False
+130,65,2026-06-26,Group stage,3.0,IR Iran,Egypt,1,1,False,False,False,66925,Lumen Field,Szymon Marciniak,False,False,False
+131,66,2026-06-26,Group stage,3.0,New Zealand,Belgium,1,5,True,False,False,52497,BC Place Stadium,Adham Makhadmeh,False,False,False
+132,66,2026-06-26,Group stage,3.0,Belgium,New Zealand,5,1,False,False,False,52497,BC Place Stadium,Adham Makhadmeh,False,False,False
+133,67,2026-06-27,Group stage,3.0,Croatia,Ghana,2,1,True,False,False,68324,Lincoln Financial Field,Drew Fischer,False,False,False
+134,67,2026-06-27,Group stage,3.0,Ghana,Croatia,1,2,False,False,False,68324,Lincoln Financial Field,Drew Fischer,False,False,False
+135,68,2026-06-27,Group stage,3.0,Panama,England,0,2,True,False,False,80663,MetLife Stadium,Abdulrahman Ibrahim Al Jassim,False,False,False
+136,68,2026-06-27,Group stage,3.0,England,Panama,2,0,False,False,False,80663,MetLife Stadium,Abdulrahman Ibrahim Al Jassim,False,False,False
+137,69,2026-06-27,Group stage,3.0,Congo DR,Uzbekistan,3,1,True,False,False,68239,Mercedes-Benz Stadium,Felix Zwayer,False,False,False
+138,69,2026-06-27,Group stage,3.0,Uzbekistan,Congo DR,1,3,False,False,False,68239,Mercedes-Benz Stadium,Felix Zwayer,False,False,False
+139,70,2026-06-27,Group stage,3.0,Colombia,Portugal,0,0,True,False,False,64478,Hard Rock Stadium,Alireza Faghani,False,False,False
+140,70,2026-06-27,Group stage,3.0,Portugal,Colombia,0,0,False,False,False,64478,Hard Rock Stadium,Alireza Faghani,False,False,False
+141,71,2026-06-27,Group stage,3.0,Jordan,Argentina,1,3,True,False,False,70649,AT&T Stadium,István Kovács,False,False,False
+142,71,2026-06-27,Group stage,3.0,Argentina,Jordan,3,1,False,False,False,70649,AT&T Stadium,István Kovács,False,False,False
+143,72,2026-06-27,Group stage,3.0,Algeria,Austria,3,3,True,False,False,69045,GEHA Field at Arrowhead Stadium,Ilgiz Tantashev,False,False,False
+144,72,2026-06-27,Group stage,3.0,Austria,Algeria,3,3,False,False,False,69045,GEHA Field at Arrowhead Stadium,Ilgiz Tantashev,False,False,False
+145,73,2026-06-28,Round of 32,,South Africa,Canada,0,1,True,False,True,69237,SoFi Stadium,João Pinheiro,True,False,False
+146,73,2026-06-28,Round of 32,,Canada,South Africa,1,0,False,True,False,69237,SoFi Stadium,João Pinheiro,True,False,False
+147,74,2026-06-29,Round of 32,,Brazil,Japan,2,1,True,False,False,68777,Reliant Stadium,Maurizio Mariani,True,False,False
+148,74,2026-06-29,Round of 32,,Japan,Brazil,1,2,False,False,False,68777,Reliant Stadium,Maurizio Mariani,True,False,False
+149,75,2026-06-29,Round of 32,,Germany,Paraguay,1,1,True,False,False,63945,Gillette Stadium,Jalal Jayed,True,True,True
+150,75,2026-06-29,Round of 32,,Paraguay,Germany,1,1,False,False,False,63945,Gillette Stadium,Jalal Jayed,True,True,True
+151,76,2026-06-29,Round of 32,,Netherlands,Morocco,1,1,True,False,False,51243,Estadio BBVA,Wilton Sampaio,True,True,True
+152,76,2026-06-29,Round of 32,,Morocco,Netherlands,1,1,False,False,False,51243,Estadio BBVA,Wilton Sampaio,True,True,True
+153,77,2026-06-30,Round of 32,,Côte d'Ivoire,Norway,1,2,True,False,False,69665,AT&T Stadium,Jesús Valenzuela,True,False,False
+154,77,2026-06-30,Round of 32,,Norway,Côte d'Ivoire,2,1,False,False,False,69665,AT&T Stadium,Jesús Valenzuela,True,False,False
+155,78,2026-06-30,Round of 32,,France,Sweden,3,0,True,False,False,80663,MetLife Stadium,Danny Makkelie,True,False,False
+156,78,2026-06-30,Round of 32,,Sweden,France,0,3,False,False,False,80663,MetLife Stadium,Danny Makkelie,True,False,False
+157,79,2026-06-30,Round of 32,,Mexico,Ecuador,2,0,True,True,False,80824,Estadio Banorte,Slavko Vinčič,True,False,False
+158,79,2026-06-30,Round of 32,,Ecuador,Mexico,0,2,False,False,True,80824,Estadio Banorte,Slavko Vinčič,True,False,False
+159,80,2026-07-01,Round of 32,,England,Congo DR,2,1,True,False,False,68239,Mercedes-Benz Stadium,Adham Makhadmeh,True,False,False
+160,80,2026-07-01,Round of 32,,Congo DR,England,1,2,False,False,False,68239,Mercedes-Benz Stadium,Adham Makhadmeh,True,False,False
+161,81,2026-07-01,Round of 32,,Belgium,Senegal,3,2,True,False,False,66925,Lumen Field,Said Martínez,True,True,False
+162,81,2026-07-01,Round of 32,,Senegal,Belgium,2,3,False,False,False,66925,Lumen Field,Said Martínez,True,True,False
+163,82,2026-07-01,Round of 32,,USA,Bosnia–Herz,2,0,True,True,False,68827,Levi's Stadium,Raphael Claus,True,False,False
+164,82,2026-07-01,Round of 32,,Bosnia–Herz,USA,0,2,False,False,True,68827,Levi's Stadium,Raphael Claus,True,False,False
+165,83,2026-07-02,Round of 32,,Spain,Austria,3,0,True,False,False,70492,SoFi Stadium,Glenn Nyberg,True,False,False
+166,83,2026-07-02,Round of 32,,Austria,Spain,0,3,False,False,False,70492,SoFi Stadium,Glenn Nyberg,True,False,False
+167,84,2026-07-02,Round of 32,,Portugal,Croatia,2,1,True,False,False,43036,BMO Field,Espen Eskås,True,False,False
+168,84,2026-07-02,Round of 32,,Croatia,Portugal,1,2,False,False,False,43036,BMO Field,Espen Eskås,True,False,False
+169,85,2026-07-02,Round of 32,,Switzerland,Algeria,2,0,True,False,False,52497,BC Place Stadium,Yael Falcón,True,False,False
+170,85,2026-07-02,Round of 32,,Algeria,Switzerland,0,2,False,False,False,52497,BC Place Stadium,Yael Falcón,True,False,False
+171,86,2026-07-03,Round of 32,,Australia,Egypt,1,1,True,False,False,70244,AT&T Stadium,Gustavo Tejera,True,True,True
+172,86,2026-07-03,Round of 32,,Egypt,Australia,1,1,False,False,False,70244,AT&T Stadium,Gustavo Tejera,True,True,True
+173,87,2026-07-03,Round of 32,,Argentina,Cabo Verde,3,2,True,False,False,64478,Hard Rock Stadium,Drew Fischer,True,True,False
+174,87,2026-07-03,Round of 32,,Cabo Verde,Argentina,2,3,False,False,False,64478,Hard Rock Stadium,Drew Fischer,True,True,False
+175,88,2026-07-03,Round of 32,,Colombia,Ghana,1,0,True,False,False,69045,GEHA Field at Arrowhead Stadium,Clément Turpin,True,False,False
+176,88,2026-07-03,Round of 32,,Ghana,Colombia,0,1,False,False,False,69045,GEHA Field at Arrowhead Stadium,Clément Turpin,True,False,False
+177,89,2026-07-04,Round of 16,,Canada,Morocco,0,3,True,True,False,68777,Reliant Stadium,Michael Oliver,True,False,False
+178,89,2026-07-04,Round of 16,,Morocco,Canada,3,0,False,False,True,68777,Reliant Stadium,Michael Oliver,True,False,False
+179,90,2026-07-04,Round of 16,,Paraguay,France,0,1,True,False,False,68324,Lincoln Financial Field,Ilgiz Tantashev,True,False,False
+180,90,2026-07-04,Round of 16,,France,Paraguay,1,0,False,False,False,68324,Lincoln Financial Field,Ilgiz Tantashev,True,False,False
+181,91,2026-07-05,Round of 16,,Brazil,Norway,1,2,True,False,False,80663,MetLife Stadium,Ismail Elfath,True,False,False
+182,91,2026-07-05,Round of 16,,Norway,Brazil,2,1,False,False,False,80663,MetLife Stadium,Ismail Elfath,True,False,False
+183,92,2026-07-05,Round of 16,,Mexico,England,2,3,True,True,False,80824,Estadio Banorte,Alireza Faghani,True,False,False
+184,92,2026-07-05,Round of 16,,England,Mexico,3,2,False,False,True,80824,Estadio Banorte,Alireza Faghani,True,False,False
+185,93,2026-07-06,Round of 16,,Portugal,Spain,0,1,True,False,False,70649,AT&T Stadium,Anthony Taylor,True,False,False
+186,93,2026-07-06,Round of 16,,Spain,Portugal,1,0,False,False,False,70649,AT&T Stadium,Anthony Taylor,True,False,False
+187,94,2026-07-06,Round of 16,,USA,Belgium,1,4,True,True,False,66925,Lumen Field,Adham Makhadmeh,True,False,False
+188,94,2026-07-06,Round of 16,,Belgium,USA,4,1,False,False,True,66925,Lumen Field,Adham Makhadmeh,True,False,False
+189,95,2026-07-07,Round of 16,,Argentina,Egypt,3,2,True,False,False,68239,Mercedes-Benz Stadium,François Letexier,True,False,False
+190,95,2026-07-07,Round of 16,,Egypt,Argentina,2,3,False,False,False,68239,Mercedes-Benz Stadium,François Letexier,True,False,False
+191,96,2026-07-07,Round of 16,,Switzerland,Colombia,0,0,True,False,False,52497,BC Place Stadium,Iván Barton,True,True,True
+192,96,2026-07-07,Round of 16,,Colombia,Switzerland,0,0,False,False,False,52497,BC Place Stadium,Iván Barton,True,True,True
+193,97,2026-07-09,Quarter-finals,,France,Morocco,2,0,True,False,False,63811,Gillette Stadium,Facundo Tello,True,False,False
+194,97,2026-07-09,Quarter-finals,,Morocco,France,0,2,False,False,False,63811,Gillette Stadium,Facundo Tello,True,False,False
+195,98,2026-07-10,Quarter-finals,,Spain,Belgium,2,1,True,False,False,70492,SoFi Stadium,Michael Oliver,True,False,False
+196,98,2026-07-10,Quarter-finals,,Belgium,Spain,1,2,False,False,False,70492,SoFi Stadium,Michael Oliver,True,False,False
+197,99,2026-07-11,Quarter-finals,,Norway,England,1,2,True,False,False,64478,Hard Rock Stadium,Clément Turpin,True,True,False
+198,99,2026-07-11,Quarter-finals,,England,Norway,2,1,False,False,False,64478,Hard Rock Stadium,Clément Turpin,True,True,False
+199,100,2026-07-11,Quarter-finals,,Argentina,Switzerland,3,1,True,False,False,69045,GEHA Field at Arrowhead Stadium,João Pinheiro,True,True,False
+200,100,2026-07-11,Quarter-finals,,Switzerland,Argentina,1,3,False,False,False,69045,GEHA Field at Arrowhead Stadium,João Pinheiro,True,True,False
+201,101,2026-07-14,Semi-finals,,France,Spain,0,2,True,False,False,70176,AT&T Stadium,Iván Barton,True,False,False
+202,101,2026-07-14,Semi-finals,,Spain,France,2,0,False,False,False,70176,AT&T Stadium,Iván Barton,True,False,False
+203,102,2026-07-15,Semi-finals,,England,Argentina,1,2,True,False,False,68239,Mercedes-Benz Stadium,Ismail Elfath,True,False,False
+204,102,2026-07-15,Semi-finals,,Argentina,England,2,1,False,False,False,68239,Mercedes-Benz Stadium,Ismail Elfath,True,False,False
+205,103,2026-07-18,Third-place match,,France,England,4,6,True,False,False,64478,Hard Rock Stadium,Jesús Valenzuela,True,False,False
+206,103,2026-07-18,Third-place match,,England,France,6,4,False,False,False,64478,Hard Rock Stadium,Jesús Valenzuela,True,False,False
+207,104,2026-07-19,Final,,Spain,Argentina,1,0,True,False,False,80663,MetLife Stadium,Slavko Vinčič,True,True,False
+208,104,2026-07-19,Final,,Argentina,Spain,0,1,False,False,False,80663,MetLife Stadium,Slavko Vinčič,True,True,False

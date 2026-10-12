@@ -1,0 +1,7 @@
+[project]
+name = "hit140-sydney-30-assessment-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
