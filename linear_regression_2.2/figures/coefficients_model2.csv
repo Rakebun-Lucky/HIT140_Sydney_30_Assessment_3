@@ -1,0 +1,10 @@
+,coef,CI low,CI high,p-value
+const,1.497,0.273,2.72,0.017
+x1_log_rank_ratio,0.363,0.23,0.495,0.0
+x2_host_advantage,0.343,-0.154,0.841,0.175
+x3_strong_conf_diff,0.121,-0.165,0.407,0.406
+x4_kickoff_hour,-0.012,-0.069,0.046,0.691
+x5_attack_form,-0.061,-0.378,0.256,0.704
+x6_opp_defence_form,0.203,-0.123,0.529,0.222
+x7_is_knockout,0.06,-0.355,0.475,0.775
+x8_high_altitude,-0.199,-0.822,0.423,0.529
